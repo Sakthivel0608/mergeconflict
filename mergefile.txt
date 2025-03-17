@@ -1,1 +1,2 @@
-comments not restored
+comment restored
+
